@@ -1,0 +1,36 @@
+body{
+    background-image: url(Pokedex-background.jpg);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+h1{
+    color: rgb(253, 253, 0);
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-top: 150px;
+}
+img{
+    display: block;
+    margin: auto;
+    margin-bottom: 40px;
+}
+input{
+    display: block;
+    margin: auto;
+    height: 30px;
+    width: 100px;
+    border-radius: 15px;
+    margin-bottom: 115px;
+}
+button{
+    display: block;
+    margin: auto;
+    border: 0px;
+    background-color: rgb(108, 163, 108);
+    font-weight: bold;
+}
+button:hover{
+    color: whitesmoke;
+}
